@@ -1,0 +1,8 @@
+#navList {
+  margin-left: 75%;
+  font-family: var(--font-one);
+}
+
+#navContent {
+  font-family: var(--font-two);
+}
